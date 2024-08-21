@@ -1,0 +1,5 @@
+Apple
+Android
+Windows
+Linux
+Claro

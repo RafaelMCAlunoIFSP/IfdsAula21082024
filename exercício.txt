@@ -1,0 +1,8 @@
+Algoritmo Média
+Nota1, Nota2 = real
+
+INÍCIO
+    Ler Nota1, Nota2
+    Média = (Nota1 + Nota2) / 2
+    Exibir Média
+FIM
